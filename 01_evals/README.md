@@ -24,7 +24,7 @@ Work the exercise in the repo — don't copy code out of a chat window. No termi
 `cd` into this folder, then run it end to end or pair with Claude Code on the exercise:
 
 ```bash
-cd day2/01_evals
+cd 01_evals
 python3 Building_an_Eval.py     # run straight through
 claude                          # …or work the exercise with Claude Code as your pair
 ```
