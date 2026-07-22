@@ -54,7 +54,6 @@ These build-alongs are meant to run in your own tooling:
 - **Claude Code CLI** - run `claude` inside the repo.
 - **Claude Desktop** - keep it open alongside your coding environment for help with concepts and debugging.
 
-Each session README has the exact steps.
 
 ---
 
