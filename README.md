@@ -16,13 +16,6 @@ git clone https://github.com/jothsnapraveena/Agentic-Evals.git
 
 ---
 
-## Sessions
-
-| Folder | Topic | Type |
-|---|---|---|
-| `01_evals` | Evals | Build-Along |
-
----
 
 ## API key
 
